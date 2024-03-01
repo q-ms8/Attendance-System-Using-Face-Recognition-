@@ -1,4 +1,5 @@
 Face Recognition Attendance System
+
 This Python script is designed to recognize faces in a webcam feed and mark attendance automatically in an Excel sheet. It utilizes the face_recognition library to recognize faces and OpenCV for video capture and display.
 
 Features
@@ -36,4 +37,5 @@ Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
