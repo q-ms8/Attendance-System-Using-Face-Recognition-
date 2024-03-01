@@ -11,7 +11,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/q-ms8/Attendance-System-Using-Face-Recognition.git
 Install the required dependencies:
 
 Copy code
@@ -36,6 +36,4 @@ Make sure the images of students are clear and well-captured for better recognit
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
